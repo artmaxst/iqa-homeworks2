@@ -89,3 +89,10 @@
 
 Прикрепите скриншоты результатов поля «Result:» по каждой задаче в личном кабинете. Если у вас получилось выполнить только часть задач по SQL, то прикрепите те, что получилось.
 
+# Решение:
+[Задание 1](https://github.com/artmaxst/Homework/blob/main/1.2(1).pdf)
+
+[Задание 2](https://github.com/artmaxst/Homework/blob/main/1.2(2).pdf)
+
+
+[Дополнительная задача 3 *](https://github.com/artmaxst/Homework/blob/main/1.2(3).pdf)
